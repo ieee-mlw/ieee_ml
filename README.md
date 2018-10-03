@@ -1,7 +1,7 @@
 # ieee_ml
 A Message from IEEE ComSoC, ITSoC, CIS and Apollo AI:
 
-Post event updates (10/3/2018, 5.40am)
+Post event updates (10/3/2018, 7.15am)
 ---------------------------------------
 Thank you to everyone who attended the workshop. We hope attendees enjoyed the workshop. We appreciate Dr. Kiran Gunnam’s volunteering to teach the course without taking any fees. The event was made possible through TI, IEEE ComSoC, ITSoC, CIS, Apollo AI and all the [volunteers and helpers](https://github.com/ieee-mlw/ieee_ml/blob/master/volunteers.MD). We appreciate your help. The event photos are posted [here](https://github.com/ieee-mlw/ieee_ml/blob/master/event_pictures.MD).
 
@@ -18,7 +18,7 @@ Thank you to everyone who attended the workshop. We hope attendees enjoyed the w
 6. We sent a simple 2-minute to 5-minute survey asking feedback of 125 attendees on how we can improve future offerings of this course. 
 We got a good ~80% of 125 attendees responded to our surveys. (i.e 101 responses).
 
-~80% of responded attendees (80 out of 101 respondes) rated the event as very good or excellent.
+~80% of responded attendees (80 out of 101 responses) rated the event as very good or excellent.
 -----------------------------------------------------------------------
 ~90% of responded attendees (90 out of 101 responses) rated the event as good or very good or excellent.
 ---------------------------------------------------------------------
